@@ -56,7 +56,7 @@ saved.addEventListener("click",()=>{
 
 
     //Update button
-    let tr4=tr1.appendChild(tableData4)
+    let tr4=tr1.appendChild(tableData4);
     let upbtn=document.createElement("button")
     upbtn.innerHTML="Update"
     upbtn.setAttribute("class","btn btn-success pad")
