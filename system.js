@@ -1,7 +1,7 @@
 // declare add details value
 let user1=document.getElementById("user")
 let ad=document.getElementById("ad")
-let count=0
+let count=0;
 ad.addEventListener("click",()=>{
     user1.style.display="block"
 
